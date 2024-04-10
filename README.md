@@ -3,7 +3,6 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raygrs)
 
-![Rayane GitHub stats](https://github-readme-stats.vercel.app/api?username=raygrs&show_icons=true&theme=dracula&count_private=true)
 
 ## Atualmente estou estudando
 
